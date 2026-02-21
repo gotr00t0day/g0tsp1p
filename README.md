@@ -11,7 +11,6 @@
 ```
 
 **Author:** c0d3Ninja  
-**GitHub:** [gotr00t0day](https://github.com/gotr00t0day)
 
 ---
 
